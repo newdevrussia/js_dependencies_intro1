@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "nodemon"
+  },
+  "name": "js_dependencies_intro",
+  "version": "1.0.0",
+  "repository": "https://github.com/newdevrussia/js_dependencies_intro1",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "diff2html-cli": "^5.0.2",
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
